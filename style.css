@@ -3,8 +3,8 @@
   /* Peach background */
   --bg-color: #ffdab9; 
   /* Creamy envelope for contrast */
-  --bg-envelope-color: #ffffff;
-  --envelope-tab: #fce4ec; /* Very light pinkish-cream */
+  --bg-envelope-color: pink;
+  --envelope-tab: pink; /* Very light pinkish-cream */
   --envelope-cover: #f8f9fa;
   --shadow-color: rgba(220, 150, 120, 0.3);
   --txt-color: #5d4037;
