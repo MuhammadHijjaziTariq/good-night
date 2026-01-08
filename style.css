@@ -2,14 +2,17 @@
   --primary: #fff;
   /* Peach background */
   --bg-color: #ffdab9; 
-  /* Creamy envelope for contrast */
-  --bg-envelope-color: pink;
-  --envelope-tab: pink; /* Very light pinkish-cream */
-  --envelope-cover: #f8f9fa;
-  --shadow-color: rgba(220, 150, 120, 0.3);
+  
+  /* Pink Envelope Theme */
+  --bg-envelope-color: #ff85a2; /* Base pink */
+  --envelope-tab: #ffb7c5;      /* Lighter pink for the top flap */
+  --envelope-cover: #ff99b2;    /* Medium pink for the front body */
+  
+  --shadow-color: rgba(150, 80, 80, 0.3);
   --txt-color: #5d4037;
-  /* Bubblegum Pink */
-  --heart-color: #ff85a2; 
+  
+  /* Vibrant Heart Seal to pop against the pink envelope */
+  --heart-color: #ed217c; 
 }
 
 body {
@@ -95,6 +98,7 @@ body {
   color: var(--txt-color);
   text-align: center;
   font-size: 10px;
+  line-height: 1.4;
 }
 
 .text strong {
