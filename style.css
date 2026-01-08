@@ -6,7 +6,7 @@
   /* Pink Envelope Theme */
   --bg-envelope-color: #ff85a2; /* Base pink */
   --envelope-tab: #ffb7c5;      /* Lighter pink for the top flap */
-  --envelope-cover: #ff99b2;    /* Medium pink for the front body */
+  --envelope-cover: #ffb7c5;    /* Medium pink for the front body */
   
   --shadow-color: rgba(150, 80, 80, 0.3);
   --txt-color: #5d4037;
