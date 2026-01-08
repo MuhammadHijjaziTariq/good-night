@@ -1,12 +1,15 @@
 :root {
   --primary: #fff;
-  --bg-color: rgb(5, 53, 61);
-  --bg-envelope-color: #f5edd1;
-  --envelope-tab: #ecdeb8;
-  --envelope-cover: #e6cfa7;
-  --shadow-color: rgba(0, 0, 0, 0.2);
-  --txt-color: #444;
-  --heart-color: rgb(252, 8, 231);
+  /* Peach background */
+  --bg-color: #ffdab9; 
+  /* Creamy envelope for contrast */
+  --bg-envelope-color: #ffffff;
+  --envelope-tab: #fce4ec; /* Very light pinkish-cream */
+  --envelope-cover: #f8f9fa;
+  --shadow-color: rgba(220, 150, 120, 0.3);
+  --txt-color: #5d4037;
+  /* Bubblegum Pink */
+  --heart-color: #ff85a2; 
 }
 
 body {
